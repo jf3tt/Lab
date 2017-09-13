@@ -21,7 +21,7 @@ public class Lab {
         int dayX = calendar.get(Calendar.DAY_OF_YEAR);
         
         if (dayX == 256) {
-            System.out.println("My congratulations to my favorite programmer");
+            System.out.println("Congratulations to my favorite programmer");
         } 
         else {
             System.out.println("Not today");
